@@ -216,47 +216,52 @@ A continuación se comparten algunas gráficas selectas surgidas tras el anális
 
 #### a. Educación:
 
-##### Términos con mayor frecuencia ponderada (análisis TF-IDF) en muestra de tema Educación:
+##### Relaciones semánticas y clústeres de muestra de preguntas del tema Educación:
+![gráfica_análisis_semántico_educación_01-1_clústers](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/e287ff58-db75-48a9-837a-b85a39be2d43)
 
-##### Bigramas con mayor frecuencia ponderada en muestra de tema Educación:
-
-##### Trigramas con mayor frecuencia ponderada en muestra de tema Educación:
+##### Bigramas con mayor frecuencia en muestra de tema Educación:
+![gráfica_análisis_semántico_educación_01-3_bigrama](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/b9eae4e4-a444-40fb-a6f9-23289231e374)
 
 
 #### b. Salud:
 
-##### Términos con mayor frecuencia ponderada (análisis TF-IDF) en muestra de tema Salud:
+##### Relaciones semánticas y clústeres de muestra de preguntas del tema Salud:
+![gráfica_análisis_semántico_salud_01-1_clústers](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/713c16db-5fae-4e4e-a55e-3ac152b89cc3)
 
-##### Bigramas con mayor frecuencia ponderada en muestra de tema Salud:
 
-##### Trigramas con mayor frecuencia ponderada en muestra de tema Salud:
+##### Bigramas con mayor frecuencia en muestra de tema Salud:
+![gráfica_análisis_semántico_salud_01-3_bigrama](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/0e3d7bca-0ce4-423f-a480-7da5ded0d7ec)
 
 
 #### c. Transparencia:
 
-##### Términos con mayor frecuencia ponderada (análisis TF-IDF) en muestra de tema Transparencia:
+##### Relaciones semánticas y clústeres de muestra de preguntas del tema Transparencia:
+![gráfica_análisis_semántico_transparencia_01-1_clústers](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/2fe032d0-af0f-48c9-865f-589bbf928d17)
 
-##### Bigramas con mayor frecuencia ponderada en muestra de tema Transparencia:
-
-##### Trigramas con mayor frecuencia ponderada en muestra de tema Transparencia:
+##### Bigramas con mayor frecuencia en muestra de tema Transparencia:
+![gráfica_análisis_semántico_transparencia_01-3_bigrama](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/10a444c2-ef09-4d61-b488-454f3b7bd986)
 
 
 #### d. No discriminación y grupos vulnerables:
 
-##### Términos con mayor frecuencia ponderada (análisis TF-IDF) en muestra de tema No discriminación y grupos vulnerables:
+##### Relaciones semánticas y clústeres de muestra de preguntas del tema No discriminación y grupos vulnerables:
+![gráfica_análisis_semántico_noDiscrimanción_01-1_clústers](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/b0e1c26d-1750-4d9b-9af7-4cd5351648c1)
 
-##### Bigramas con mayor frecuencia ponderada en muestra de tema No discriminación y grupos vulnerables:
 
-##### Trigramas con mayor frecuencia ponderada en muestra de tema No discriminación y grupos vulnerables:
+##### Bigramas con mayor frecuencia en muestra de tema No discriminación y grupos vulnerables:
+![gráfica_análisis_semántico_noDiscriminación_01-3_bigrama](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/6fa9da9c-d6a2-4a49-9739-47bd142d0f3e)
+
 
 
 #### e. Violencia en contra de las mujeres:
 
-##### Términos con mayor frecuencia ponderada (análisis TF-IDF) en muestra de tema Violencia en contra de las mujeres:
+##### Relaciones semánticas y clústeres de muestra de preguntas del tema Violencia en contra de las mujeres:
+![gráfica_análisis_semántico_violenciaMujeres_01-1_clústers](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/e893a270-2f8b-49b6-8f6a-7b359bf4cd93)
+
 
 ##### Bigramas con mayor frecuencia ponderada en muestra de tema Violencia en contra de las mujeres:
+![gráfica_análisis_semántico_violenciaMujeres_01-3_bigramas](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/ac38607f-5ccb-4eda-bdbf-a117602eea7f)
 
-##### Trigramas con mayor frecuencia ponderada en muestra de tema Violencia en contra de las mujeres:
 
 ---
 
