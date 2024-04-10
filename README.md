@@ -153,32 +153,63 @@ A continuación se comparten algunas gráficas selectas surgidas tras el anális
 ### 13,483 registros recibidos (entradas a diccionario):
 
 #### Registros por región:
+![01-1_registros_por-region_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/e8fecdce-41c5-4a1d-b966-d5c9b6aa7bd9)
+
 
 #### Registros por entidad:
+![01-3_registros_por-entidad_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/803f449f-a1aa-4fb3-9304-576ee894c572)
 
-#### Registros por género:
 
 #### Registros por rango de edad:
+![02-4_registros_por-edad_rangos-porcentajes_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/bb2982b3-2945-4fbb-88bc-d76195306c7a)
+
+
+#### Registros por género:
+![03-3_registros_por-género_porcentajes-nulos-válido_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/31faf02b-92bb-439e-992c-4bcf1b39e1a9)
+
+![03-4_registros_por-género_porcentajes-género_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/0e200e93-17b2-4be1-b760-81af8b888a4b)
+
 
 #### Registros por pertenencia a grupo en situación de discriminación:
+![04-3_registros_por-GSD_nulos-válidos-porcentajes_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/a52c2f13-9cf3-43ff-ae81-065c6b590fd7)
+
+![04-4_registros_por-GSD_grupos-porcentajes_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/05888d62-fef3-40ce-abf7-3f695a95ed12)
+
 
 
 ### 24,000 preguntas en depuración inicial
 
 #### Relación entre preguntas depuradas y descartadas:
+![01-1_preguntas_depuradas-descartadas-porcentajes_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/3bc01f0e-805f-4460-8d88-bcade20b90eb)
+
 
 #### Preguntas descartadas por diccionarios según la categoría de términos proscritos presentes:
+![01-2_preguntas_depuradas-descartadas-diccionarios-categorias_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/fae2cc0f-9cab-4564-ae61-e7802f75b8e7)
+
 
 
 ### 21,219 preguntas en población depurada
 
+#### Preguntas por tema en población depurada:
+![02-1_preguntas_por-tema_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/97bfda49-edda-4249-b77c-e34b8796fee5)
+
+
+
 #### Preguntas por región y tema en población depurada:
+![02-3_preguntas_por-tema-region-porcentajes_04](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/82b244b1-b931-471f-a824-cfb5b704d708)
+
 
 #### Preguntas por edad y tema en población depurada:
+![03-3_preguntas_por-rango-edad-tema_02-porcentajes](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/ee68b6e2-c258-4017-8895-e7f8033a88a1)
+
 
 #### Preguntas por género y tema en población depurada:
+![04-4_preguntas_por-genero-tema_01](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/100dfe99-a0c1-4f2a-a49d-577fbf881df9)
+
 
 #### Preguntas por grupo en situación de discriminación y tema en población depurada:
+![05-5_preguntas_por-GSD-grupos-tema-porcentaje_02](https://github.com/signalabiteso/preguntas-debateINE-2024/assets/157540247/5c533e36-41d3-42e4-90f7-705f6ccc27f8)
+
 
 
 ### Análisis semántico por tema en la muestra estratificada de 1,701 preguntas
