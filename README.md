@@ -82,7 +82,7 @@ La última etapa del proyecto consiste en la [redacción de un Informe Final](ht
 ---
 
 ## Anexos en este repositorio en Github
-En el [directorio de Anexos](https://github.com/signalab/preguntas-debateINE-2024/tree/main/anexos) de este repositorio, se encuentran todos los cuadernos de código utilizados para las distintas etapas del proceso y el diccionario de términos proscritos para la depuración inicial, desarrollados por Signa_Lab ITESO.
+En el [directorio de Anexos](https://github.com/signalab/preguntas-debateINE-2024/tree/main/anexos) de este repositorio, se encuentran todos los **cuadernos de código** utilizados para las distintas etapas del proceso y el **diccionario de términos proscritos** para la depuración inicial, desarrollados por Signa_Lab ITESO.
 
 **Nota:** En este repositorio se publica el código necesario para replicar el ejercicio con los datos en el formato en que fueron entregados originalmente a Signa_Lab ITESO. Los conjuntos de datos procesados a lo largo de cada una de las etapas se entregaron al INE como anexos del Informe Final de este proyecto, para asegurar la transparencia, trazabilidad y replicabilidad del ejercicio ante la autoridad electoral, misma que fue la institución competente para hacer pública dicha la información completa en su [repositorio oficial](https://centralelectoral.ine.mx/conoce-el-proceso-de-seleccion-de-las-preguntas-para-el-primer-debate-presidencial-2024/).
 
@@ -98,7 +98,7 @@ En el [directorio de Anexos](https://github.com/signalab/preguntas-debateINE-202
   - Consolidar tabla y exportar archivo de datos tabulares (CSV) con 21,219 preguntas de población depurada.
   - Análisis exploratorio de datos de población depurada de 21,219 preguntas (por tema, región, entidad, edad, género, grupos en situación de discriminación).
   - Cálculo y elaboración de muestra estratificada.
-  - Extracción aleatoria de 1,701 preguntas por región y tema, de acuerdo al cálculo de la muestra estraficada. 
+  - Extracción aleatoria de 1,701 preguntas por región y tema, de acuerdo al cálculo de la muestra estratificada. 
   - Consolidar y exportar archivo de datos tabulares (CSV) con 1,701 preguntas de muestra estratificada.
 
 
@@ -133,7 +133,7 @@ En el [directorio de Anexos](https://github.com/signalab/preguntas-debateINE-202
   - Consolidar tabla y exportar archivo de datos tabulares (CSV) con selección de 108 preguntas seleccionadas para revisión final.
 
 #### [Cuaderno 05. Análisis exploratorio de resultados](anexos/05_Signa_Lab_DebateINE2024_Análisis_Exploratorio_Resultados-repo.ipynb)
-  - Importar conjuntos de datos exportados etapas anteriores (13,484 registros en formulario, 24,000 preguntas sin depurar, 2,781 preguntas descartadas, 21,219. preguntas en población depurada, 1,701 preguntas en muestra estratificada).
+  - Importar conjuntos de datos exportados en etapas anteriores (13,484 registros en formulario, 24,000 preguntas sin depurar, 2,781 preguntas descartadas, 21,219. preguntas en población depurada, 1,701 preguntas en muestra estratificada).
   - Análisis exploratorio de datos de 13,484 registros recibidos (por región, entidad, edad, género, grupos en situación de discriminación, fecha de entrada).
   - Análisis exploratorio de datos de población depurada de 21,219 preguntas (por tema, región, entidad, edad, género, grupos en situación de discriminación), así como de relación y razonamiento de depuración de las 2,781 preguntas descartadas.
 
